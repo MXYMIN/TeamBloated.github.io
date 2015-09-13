@@ -147,3 +147,20 @@ body{
   opacity: 0;
   cursor: pointer;
 }
+
+#footer{
+  position: fixed;
+  bottom: 10px;
+  text-align: center;
+  font-size: 0.6em;
+  font-family: MoonLight;
+  margin-left: 0 auto;
+  left: 0;
+  right: 0;
+  color: #E65050;
+}
+
+a{
+  font-family: MoonBold;
+  color: #E65050;
+}
